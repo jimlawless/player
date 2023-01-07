@@ -10,7 +10,7 @@
 //
 // This is one of my first Rust programs, so it's very simple.  I hope to flesh it
 // out a bit using more formal command-line parsing, adding more features such as
-// playlist files, and such.
+// playlist files.
 //
 // The program is really just a thin wrapper around Soloud which does all of the heavy-lifting.
 //
